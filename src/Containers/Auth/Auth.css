@@ -1,0 +1,13 @@
+.auth-body-container{
+    grid-column: 4/8;
+    grid-row: 3/9;
+    background-color:#94a3b8;
+    padding:25px;
+    border: 2.5px solid #94a3b8;
+    border-radius:15px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    color:aliceblue;
+    font-size: 2em;
+}
